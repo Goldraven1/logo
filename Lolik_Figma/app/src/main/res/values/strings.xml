@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lolik_Figma</string>
+    <string name="login_btn">Войти в аккаунт</string>
+    <string name="sign_btn">Войти</string>
+    <string name="registratio">Зарегистрироваться</string>
+    <string name="onboardingRegister">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="onboarding_hello">ПРИВЕТ</string>
+    <string name="onboarding_text">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+</resources>
